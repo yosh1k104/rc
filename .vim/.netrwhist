@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/yosh1k104/Documents/rg'
+let g:netrw_dirhist_2='/Users/yosh1k104/Documents/rg/ht'
+let g:netrw_dirhist_3='/Users/yosh1k104/Documents/rg/ht/Graduation'
+let g:netrw_dirhist_4='/Users/yosh1k104/Documents/rg/ht/Graduation/Final'
+let g:netrw_dirhist_5='/Users/yosh1k104/Documents/rg/ht/Graduation/Final/tex'
+let g:netrw_dirhist_6='/Users/yosh1k104/Documents/linux-4.0.4/virt/kvm'
